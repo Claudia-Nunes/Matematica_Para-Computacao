@@ -6,7 +6,7 @@ Nome: Claudia Nunes
 2.1. Efetue uma definição, através de enumeração, de todos os membros da sua família,
 considerando apenas parentesco direto de pais, irmãos e filhos.
  
-
+Membros da família ≝ 1-Darly,2-Vera,3-Claudia,4-Debora,5-Adriana
 
 2.2. Efetue uma definição, através de enumeração, de cursos existentes na instituição de
 ensino em que você está estudando.
