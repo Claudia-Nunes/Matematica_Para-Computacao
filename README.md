@@ -22,7 +22,8 @@ Número primo ≝ 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,...
 
 2.4. Efetue uma definição ostensiva, de um colega de classe.
 
-Fernando Ferreira ≝  
+Fernando Ferreira ≝ ![image](https://github.com/Claudia-Nunes/Matematica_Para-Computacao/assets/104475381/bf54887b-a8a0-419e-85ad-633a3f5ff94d)
+
 
 
 2.5. Efetue uma definição recursiva de uma sequência numérica cujos elementos são obtidos
