@@ -3,31 +3,31 @@ Exercicios
 
 Nome: Claudia Nunes 
 
-2.1. Efetue uma definição, através de enumeração, de todos os membros da sua família,
+#2.1. Efetue uma definição, através de enumeração, de todos os membros da sua família,
 considerando apenas parentesco direto de pais, irmãos e filhos.
  
+Membros da família ≝ 1-Darly,2-Vera,3-Claudia,4-Debora,5-Adriana
 
-
-2.2. Efetue uma definição, através de enumeração, de cursos existentes na instituição de
+#2.2. Efetue uma definição, através de enumeração, de cursos existentes na instituição de
 ensino em que você está estudando.
 
 1-	Meio Ambiente e Recursos Hídricos
 2-	Geoprocessamento
 3-	Desenvolvimento de Software Multiplataforma
 
-2.3. Efetue uma definição, através de enumeração, de números primos. Um número é dito
+#2.3. Efetue uma definição, através de enumeração, de números primos. Um número é dito
 primo se só possui como divisor ele mesmo e o número um.
 
 Número primo ≝ 2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,...
 
-2.4. Efetue uma definição ostensiva, de um colega de classe.
+#2.4. Efetue uma definição ostensiva, de um colega de classe.
 
 Fernando Ferreira ≝ ![Imagem1](https://github.com/Claudia-Nunes/Matematica_Para-Computacao/assets/104475381/25aecc8a-d41e-40f4-9daa-5ed75dd3ef73)
 
 
 
 
-2.5. Efetue uma definição recursiva de uma sequência numérica cujos elementos são obtidos
+#2.5. Efetue uma definição recursiva de uma sequência numérica cujos elementos são obtidos
 multiplicando-se, a partir do segundo elemento, o elemento anterior por 3. Considere que o
 primeiro elemento vale 2.
 
@@ -43,7 +43,7 @@ Sequência numérica ≝ {2,18, 54,162,486, ...}
 
 
 
-2.6. Utilizando linguagem de programação defina:
+#2.6. Utilizando linguagem de programação defina:
 
 a)	Uma enumeração para os meses do ano.
 b)	enum MesesDoAno {
