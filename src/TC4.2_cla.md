@@ -1,6 +1,4 @@
-Claro, aqui estão as respostas em um arquivo Markdown (.md):
-
-## Problemas e Tipos Numéricos Adequados
+## Problemas e Tipos Numéricos Adequados ex.4.2 Claudia Nunes
 
 ### a) Contagem do número de linhas de um arquivo de log:
 Para a contagem do número de linhas em um arquivo de log, o tipo numérico mais adequado é o `number` (número), que pode representar valores inteiros.
@@ -33,5 +31,3 @@ Exemplo em TypeScript:
 ```typescript
 const temperatura: number = 25;  // Um exemplo de temperatura em graus Celsius.
 ```
-
-Lembre-se de que a escolha dos tipos numéricos depende das necessidades específicas do seu código em TypeScript. Certifique-se de adaptar os tipos de acordo com as características do seu projeto.
