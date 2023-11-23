@@ -31,7 +31,11 @@ Os descontos progressivos são aplicados até um limite de 40%. Dito isso:
 <br>
 a) Faça o gráfico da função que modela o preço total pago pelo cliente como função do
 número de itens presentes em seu carrinho de compras, considerando os descontos
-progressivos.  
+progressivos.  <br>
+
+![Sem título PNG](https://github.com/Claudia-Nunes/mat_comp_2023_02/assets/104475381/35cf7dd8-6b73-4d85-8569-e61e5e99b237)
+
+
 <br>
 b) Sabendo que essa função é definida por partes, escreva sua expressão matemática
 para cada intervalo de itens pertinentes.  
